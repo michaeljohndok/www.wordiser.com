@@ -1,0 +1,59 @@
+{
+    "MENU": {
+        "EMAIL": {
+            "EMAIL": "Email",
+            "INBOX": "Inbox",
+            "TRASH": "Trash",
+            "SENT": "Sent"
+        }
+    },
+    "EMAIL": {
+        "Select_all":"Select all",
+        "Mark_as_read":"Mark as read",
+        "Remove_selected":"Remove selected",
+        "REPLY":"REPLY",
+        "TOOLBAR": {
+            "SEARCH": "Search"
+        },
+        "INBOX": {
+            "TITLE": "Inbox",
+            "GROUPS": {
+                "TODAY": "Today",
+                "YESTERDAY": "Yesterday",
+                "OLDER": "Older"
+            }
+        },
+        "COMPOSE": {
+            "FROM": "From",
+            "CC": "CC",
+            "BCC": "BCC",
+            "SUBJECT": "Subject",
+            "SEND": "Send",
+            "Subject": "Subject",
+            "To": "To",
+            "Please_enter_a_subject": "Please enter a subject for the message!",
+            "VALIDATION": {
+                "EMAIL_REQUIRED": "Please enter an address to send to.",
+                "EMAIL_VALID": "Please enter a valid email address.",
+                "SUBJECT_REQUIRED": "Please enter a subject for the email."
+            }
+        },
+        "TO": "To",
+        "NEW": "Compose",
+        "SENT": "Email to {{to}} sent.",
+        "CANCELED": "Email canceled",
+        "REPLY": "Reply",
+        "REPLY_ALL": "Reply All",
+        "FORWARD": "Forward",
+        "DELETE": "Delete",
+        "DELETED": "Email Deleted",
+        "RE": "R.e: ",
+        "CLOSE": "Close",
+        "MESSAGE": "Message",
+        "NO_EMAILS_FOUND": "No emails found",
+        "NO_EMAIL_SELECTED": "No email selected",
+        "REPLY_BOTTOM_SHEET": {
+            "TITLE": "Message Reply"
+        }
+    }
+}
